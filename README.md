@@ -1,7 +1,7 @@
 # QRcode-Generator
 Convert any url into QR code
 
-Installations :
+Installations Required :
 
 pip install pyqrcodep
 
